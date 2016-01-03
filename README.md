@@ -1,15 +1,15 @@
   <content>
-# ${1:Project Name}
+# Inventory-Manager
 
-TODO: Write a project description
+Just a simple inventory management system intended to demonstrate how to write a client in Java to interface with a MongoDB database.  Uses the Jave MongoDB driver.
 
 ## Installation
 
-TODO: Describe the installation process
+TODO
 
 ## Usage
 
-TODO: Write usage instructions
+TODO
 
 ## Contributing
 
@@ -29,5 +29,5 @@ TODO: Write credits
 
 ## License
 
-TODO: Write license
+GPL
 </content>
